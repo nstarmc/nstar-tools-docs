@@ -97,9 +97,5 @@ module.exports = config({
       },
     },
 
-    pwa: {
-      favicon: "/favicon.png",
-      cachePic: true,
-    },
   },
 });
