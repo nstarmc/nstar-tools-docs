@@ -33,6 +33,7 @@ module.exports = config({
 
 
   themeConfig: {
+    pwa:false,
     logo: "/favicon.png",
     hostname: "https://docs.nstarmc.cn",
     repo: "https://github.com/nstarmc/serverdocs/nstarserverdocs",
@@ -96,6 +97,5 @@ module.exports = config({
         ],
       },
     },
-
   },
 });
