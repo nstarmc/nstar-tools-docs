@@ -1,6 +1,13 @@
 const { config } = require("vuepress-theme-hope");
 
 module.exports = config({
+  locales: {
+    '/': {
+      lang: 'zh-CN',
+      title: '夜阑星空群服务器帮助文档',
+      description: '夜阑星空群服务器帮助文档'
+    }
+  },
   title: "夜阑星空群服务器帮助文档",
   description: "夜阑星空群服务器的帮助文档",
 
