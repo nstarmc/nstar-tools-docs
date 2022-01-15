@@ -40,11 +40,11 @@ module.exports = config({
 
 
     nav: [
-      { text: "文档首页", link: "/", icon: "home" },
+      { text: "文档首页", link: "/", icon: "shouye" },
       {
         text: "夜阑星空-Minecraft",
         link: "https://nstarmc.cn",
-        icon: "home",
+        icon: "shouye",
       },
     ],
 
