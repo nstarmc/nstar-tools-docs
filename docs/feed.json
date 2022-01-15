@@ -9,10 +9,10 @@
   },
   "items": [
     {
-      "title": "夜阑星空群服务器",
-      "url": "https://docs.nstarmc.cn/start/",
-      "id": "https://docs.nstarmc.cn/start/",
-      "content_html": "<h1 id=\"夜阑星空群服务器\"> 夜阑星空群服务器</h1>\n<h2 id=\"服务器客户端支持\"> 服务器客户端支持</h2>\n<ul>\n<li>Minecraft Java版 1.18.1</li>\n<li>Minecraft Bedrock（基岩版） 1.18.2</li>\n</ul>\n<h2 id=\"群服务器专用验证系统\"> 群服务器专用验证系统</h2>\n<p><img src=\"./readme.assets/image-20220115094342361.png\" alt=\"image-20220115094342361\" /></p>\n<h3 id=\"网址\"> 网址</h3>\n<p><a href=\"https://auth.nstarmc.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">夜阑星空群服务器 (nstarmc.cn)</a></p>\n<p>链接：<a href=\"https://auth.nstarmc.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">https://auth.nstarmc.cn/</a></p>\n<h3 id=\"验证系统原理\"> 验证系统原理</h3>\n<p>使用自建登录api替代Mojang官方登录验证</p>\n<p>使得没有正版的玩家也可以方便的登录服务器游玩</p>\n<p>也支持基岩版对Java版账户进行数据同步</p>\n",
+      "title": "夜阑星空群群服务器帮助文档",
+      "url": "https://docs.nstarmc.cn/",
+      "id": "https://docs.nstarmc.cn/",
+      "content_html": "<p>啥也没</p>\n<p>服务器暂定于2022年1月20日开放，敬请期待！</p>\n<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>\n<p>还是，敬请期待！</p>\n<p>客户端将在短期内发布~</p>\n",
       "date_published": "2022-01-15T05:03:22.000Z",
       "date_modified": "2022-01-15T05:03:22.000Z",
       "authors": [
@@ -23,10 +23,10 @@
       "tags": []
     },
     {
-      "title": "夜阑星空群群服务器帮助文档",
-      "url": "https://docs.nstarmc.cn/",
-      "id": "https://docs.nstarmc.cn/",
-      "content_html": "<p>啥也没</p>\n<p>服务器暂定于2022年1月20日开放，敬请期待！</p>\n<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>\n<p>还是，敬请期待！</p>\n<p>客户端将在短期内发布~</p>\n",
+      "title": "使用基岩版加入游戏",
+      "url": "https://docs.nstarmc.cn/start/bedrock/",
+      "id": "https://docs.nstarmc.cn/start/bedrock/",
+      "content_html": "<h1 id=\"使用基岩版加入游戏\"> 使用基岩版加入游戏</h1>\n<h2 id=\"首先\"> 首先</h2>\n<p>你得拥有一个基岩版（这不是废话？）</p>\n<div><p>基岩版获取方法</p>\n<p><strong>Windows10/11版本</strong>：自己去Windows store买，71RMB</p>\n<p>（或者某宝好像有30来块钱的激活码）</p>\n<p><strong>安卓版</strong>：自己去Google Play商店购买</p>\n<p>（或者群文件有能用的捏）</p>\n<p><strong>IOS（苹果）版</strong>：使用非大陆的Apple ID登录AppStore，购买并下载</p>\n<p>（或者某宝）</p>\n</div>\n<h2 id=\"进入服务器\"> 进入服务器</h2>\n<p>进入“服务器”页面</p>\n<p><img src=\"./bedrock.assets/image-20220115120808694.png\" alt=\"image-20220115120808694\" /></p>\n<p>点击添加服务器，输入服务器地址和端口</p>\n<div><p>基岩版服务器地址</p>\n<p>（服务器暂未开放）</p>\n<p>服务器名称：你爱咋写咋写</p>\n<p>地址：</p>\n<p>端口：</p>\n</div>\n<p><img src=\"./bedrock.assets/image-20220115121735706.png\" alt=\"image-20220115121735706\" /></p>\n<p>然后加入服务器即可</p>\n<p><img src=\"./bedrock.assets/image-20220115121806466.png\" alt=\"image-20220115121806466\" /></p>\n<p>进入后，选择“Mojang账户”登录</p>\n<p><img src=\"./bedrock.assets/image-20220115121841536.png\" alt=\"image-20220115121841536\" /></p>\n<p>然后，输入服务器专用验证系统上的账户和密码即可！（切记，不是输入正版账户！）</p>\n<p><img src=\"./bedrock.assets/image-20220115121929985.png\" alt=\"image-20220115121929985\" /></p>\n<div><p>注意</p>\n<p>你不能Java版和基岩版同时登陆</p>\n<p>（不信？自己去试试咯）</p>\n</div>\n<div><p>警告</p>\n<p>请不要在该服务器使用正版账户登录</p>\n<p>否则导致uuid规则不一样和无法和Java版本账户同步</p>\n<p>如有该数据，我们会进行删除和封禁</p>\n<p>（在服务器中登录正版账户你的id前会有一个*号的）</p>\n</div>\n",
       "date_published": "2022-01-15T05:03:22.000Z",
       "date_modified": "2022-01-15T05:03:22.000Z",
       "authors": [
@@ -51,10 +51,10 @@
       "tags": []
     },
     {
-      "title": "使用基岩版加入游戏",
-      "url": "https://docs.nstarmc.cn/start/bedrock/",
-      "id": "https://docs.nstarmc.cn/start/bedrock/",
-      "content_html": "<h1 id=\"使用基岩版加入游戏\"> 使用基岩版加入游戏</h1>\n<h2 id=\"首先\"> 首先</h2>\n<p>你得拥有一个基岩版（这不是废话？）</p>\n<div><p>基岩版获取方法</p>\n<p><strong>Windows10/11版本</strong>：自己去Windows store买，71RMB</p>\n<p>（或者某宝好像有30来块钱的激活码）</p>\n<p><strong>安卓版</strong>：自己去Google Play商店购买</p>\n<p>（或者群文件有能用的捏）</p>\n<p><strong>IOS（苹果）版</strong>：使用非大陆的Apple ID登录AppStore，购买并下载</p>\n<p>（或者某宝）</p>\n</div>\n<h2 id=\"进入服务器\"> 进入服务器</h2>\n<p>进入“服务器”页面</p>\n<p><img src=\"./bedrock.assets/image-20220115120808694.png\" alt=\"image-20220115120808694\" /></p>\n<p>点击添加服务器，输入服务器地址和端口</p>\n<div><p>基岩版服务器地址</p>\n<p>（服务器暂未开放）</p>\n<p>服务器名称：你爱咋写咋写</p>\n<p>地址：</p>\n<p>端口：</p>\n</div>\n<p><img src=\"./bedrock.assets/image-20220115121735706.png\" alt=\"image-20220115121735706\" /></p>\n<p>然后加入服务器即可</p>\n<p><img src=\"./bedrock.assets/image-20220115121806466.png\" alt=\"image-20220115121806466\" /></p>\n<p>进入后，选择“Mojang账户”登录</p>\n<p><img src=\"./bedrock.assets/image-20220115121841536.png\" alt=\"image-20220115121841536\" /></p>\n<p>然后，输入服务器专用验证系统上的账户和密码即可！（切记，不是输入正版账户！）</p>\n<p><img src=\"./bedrock.assets/image-20220115121929985.png\" alt=\"image-20220115121929985\" /></p>\n<div><p>注意</p>\n<p>你不能Java版和基岩版同时登陆</p>\n<p>（不信？自己去试试咯）</p>\n</div>\n<div><p>警告</p>\n<p>请不要在该服务器使用正版账户登录</p>\n<p>否则导致uuid规则不一样和无法和Java版本账户同步</p>\n<p>如有该数据，我们会进行删除和封禁</p>\n<p>（在服务器中登录正版账户你的id前会有一个*号的）</p>\n</div>\n",
+      "title": "夜阑星空群服务器",
+      "url": "https://docs.nstarmc.cn/start/",
+      "id": "https://docs.nstarmc.cn/start/",
+      "content_html": "<h1 id=\"夜阑星空群服务器\"> 夜阑星空群服务器</h1>\n<h2 id=\"服务器客户端支持\"> 服务器客户端支持</h2>\n<ul>\n<li>Minecraft Java版 1.18.1</li>\n<li>Minecraft Bedrock（基岩版） 1.18.2</li>\n</ul>\n<h2 id=\"群服务器专用验证系统\"> 群服务器专用验证系统</h2>\n<p><img src=\"./readme.assets/image-20220115094342361.png\" alt=\"image-20220115094342361\" /></p>\n<h3 id=\"网址\"> 网址</h3>\n<p><a href=\"https://auth.nstarmc.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">夜阑星空群服务器 (nstarmc.cn)</a></p>\n<p>链接：<a href=\"https://auth.nstarmc.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">https://auth.nstarmc.cn/</a></p>\n<h3 id=\"验证系统原理\"> 验证系统原理</h3>\n<p>使用自建登录api替代Mojang官方登录验证</p>\n<p>使得没有正版的玩家也可以方便的登录服务器游玩</p>\n<p>也支持基岩版对Java版账户进行数据同步</p>\n",
       "date_published": "2022-01-15T05:03:22.000Z",
       "date_modified": "2022-01-15T05:03:22.000Z",
       "authors": [
