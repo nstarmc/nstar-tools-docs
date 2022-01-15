@@ -28,7 +28,7 @@ module.exports = config({
   themeConfig: {
     logo: "/favicon.png",
     hostname: "https://docs.nstarmc.cn",
-
+    repo: "https://github.com/luluxiaoyu/nstarserver-docs-2022/",
     author: "小宇",
 
 

@@ -6,8 +6,8 @@
     <link>https://docs.nstarmc.cn/</link>
     <description>夜阑星空群服务器的帮助文档</description>
     <language>en-US</language>
-    <pubDate>Sat, 15 Jan 2022 04:57:47 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Jan 2022 04:57:47 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Jan 2022 05:04:24 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Jan 2022 05:04:24 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
@@ -16,6 +16,7 @@
       <link>https://docs.nstarmc.cn/</link>
       <guid>https://docs.nstarmc.cn/</guid>
       <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群群服务器帮助文档</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>啥也没</p>
 <p>服务器暂定于2022年1月20日开放，敬请期待！</p>
 <p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
@@ -28,6 +29,7 @@
       <link>https://docs.nstarmc.cn/start/bedrock/</link>
       <guid>https://docs.nstarmc.cn/start/bedrock/</guid>
       <source url="https://docs.nstarmc.cn/rss.xml">使用基岩版加入游戏</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="使用基岩版加入游戏"> 使用基岩版加入游戏</h1>
 <h2 id="首先"> 首先</h2>
 <p>你得拥有一个基岩版（这不是废话？）</p>
@@ -69,32 +71,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>夜阑星空群服务器</title>
-      <link>https://docs.nstarmc.cn/start/</link>
-      <guid>https://docs.nstarmc.cn/start/</guid>
-      <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群服务器</source>
-      <content:encoded><![CDATA[<h1 id="夜阑星空群服务器"> 夜阑星空群服务器</h1>
-<h2 id="服务器客户端支持"> 服务器客户端支持</h2>
-<ul>
-<li>Minecraft Java版 1.18.1</li>
-<li>Minecraft Bedrock（基岩版） 1.18.2</li>
-</ul>
-<h2 id="群服务器专用验证系统"> 群服务器专用验证系统</h2>
-<p><img src="./readme.assets/image-20220115094342361.png" alt="image-20220115094342361" /></p>
-<h3 id="网址"> 网址</h3>
-<p><a href="https://auth.nstarmc.cn/" target="_blank" rel="noopener noreferrer">夜阑星空群服务器 (nstarmc.cn)</a></p>
-<p>链接：<a href="https://auth.nstarmc.cn/" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn/</a></p>
-<h3 id="验证系统原理"> 验证系统原理</h3>
-<p>使用自建登录api替代Mojang官方登录验证</p>
-<p>使得没有正版的玩家也可以方便的登录服务器游玩</p>
-<p>也支持基岩版对Java版账户进行数据同步</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>使用Java版本进入服务器</title>
       <link>https://docs.nstarmc.cn/start/java/</link>
       <guid>https://docs.nstarmc.cn/start/java/</guid>
       <source url="https://docs.nstarmc.cn/rss.xml">使用Java版本进入服务器</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="使用java版本进入服务器"> 使用Java版本进入服务器</h1>
 <div><p>提示</p>
 <p>本篇写的是使用群服务器专用客户端加入教程！</p>
@@ -157,10 +138,34 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>夜阑星空群服务器</title>
+      <link>https://docs.nstarmc.cn/start/</link>
+      <guid>https://docs.nstarmc.cn/start/</guid>
+      <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群服务器</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="夜阑星空群服务器"> 夜阑星空群服务器</h1>
+<h2 id="服务器客户端支持"> 服务器客户端支持</h2>
+<ul>
+<li>Minecraft Java版 1.18.1</li>
+<li>Minecraft Bedrock（基岩版） 1.18.2</li>
+</ul>
+<h2 id="群服务器专用验证系统"> 群服务器专用验证系统</h2>
+<p><img src="./readme.assets/image-20220115094342361.png" alt="image-20220115094342361" /></p>
+<h3 id="网址"> 网址</h3>
+<p><a href="https://auth.nstarmc.cn/" target="_blank" rel="noopener noreferrer">夜阑星空群服务器 (nstarmc.cn)</a></p>
+<p>链接：<a href="https://auth.nstarmc.cn/" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn/</a></p>
+<h3 id="验证系统原理"> 验证系统原理</h3>
+<p>使用自建登录api替代Mojang官方登录验证</p>
+<p>使得没有正版的玩家也可以方便的登录服务器游玩</p>
+<p>也支持基岩版对Java版账户进行数据同步</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>在验证系统注册</title>
       <link>https://docs.nstarmc.cn/start/reg/</link>
       <guid>https://docs.nstarmc.cn/start/reg/</guid>
       <source url="https://docs.nstarmc.cn/rss.xml">在验证系统注册</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="在验证系统注册"> 在验证系统注册</h1>
 <p>1.首先打开浏览器.输入</p>
 <p><a href="https://auth.nstarmc.cn" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn</a></p>
