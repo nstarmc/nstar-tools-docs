@@ -6,8 +6,8 @@
     <link>https://docs.nstarmc.cn/</link>
     <description>夜阑星空群服务器的帮助文档</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Jan 2022 07:35:56 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Jan 2022 07:35:56 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Jan 2022 07:42:41 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Jan 2022 07:42:41 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
@@ -22,73 +22,6 @@
 <p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
 <p>还是，敬请期待！</p>
 <p>客户端将在短期内发布~</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>使用Java版本进入服务器</title>
-      <link>https://docs.nstarmc.cn/start/java/</link>
-      <guid>https://docs.nstarmc.cn/start/java/</guid>
-      <source url="https://docs.nstarmc.cn/rss.xml">使用Java版本进入服务器</source>
-      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="使用java版本进入服务器"> 使用Java版本进入服务器</h1>
-<div><p>提示</p>
-<p>本篇写的是使用群服务器专用客户端加入教程！</p>
-<p>这是最简单的方法！</p>
-</div>
-<h2 id="下载群服务器客户端"> 下载群服务器客户端</h2>
-<p>首先进入群文件，找到“群服务器客户端”文件夹</p>
-<p><img src="./java.assets/image-20220115102543829.png" alt="image-20220115102543829" /></p>
-<p>下载带有“setup”字样的安装包</p>
-<p><img src="./java.assets/image-20220115102636820.png" alt="image-20220115102636820" /></p>
-<h2 id="安装群服务客户端"> 安装群服务客户端</h2>
-<p>找到你下载的文件，并双击运行</p>
-<p><img src="./java.assets/image-20220115102803274.png" alt="image-20220115102803274" /></p>
-<p>这里建议选择为所有用户安装</p>
-<p><img src="./java.assets/image-20220115102910826.png" alt="image-20220115102910826" /></p>
-<p>然后一直下一步就好了，你可以修改安装目录，客户端大概占用3g的样子</p>
-<p><img src="./java.assets/image-20220115102953620.png" alt="image-20220115102953620" /></p>
-<p>在建议创建快捷方式，然后安装就好</p>
-<p><img src="./java.assets/image-20220115103716570.png" alt="image-20220115103716570" /></p>
-<h2 id="运行客户端"> 运行客户端</h2>
-<h3 id="打开客户端"> 打开客户端</h3>
-<p>在安装完成后，可以直接运行，也可在桌面上找到群服务器客户端的快捷方式运行</p>
-<p><img src="./java.assets/image-20220115104051954.png" alt="image-20220115104051954" /></p>
-<div><p>提示</p>
-<p>如果运行时弹出错误，请在群文件下载运行库，并安装</p>
-<p>然后再次尝试运行</p>
-<p>如果还是出错，可以在群里求助</p>
-<p><img src="./java.assets/image-20220115105445649.png" alt="image-20220115105445649" /></p>
-</div>
-<h3 id="更新游戏客户端"> 更新游戏客户端</h3>
-<p>第一次启动后会提示需要更新，点击确定后，来到更新页面</p>
-<p>点击更新就好，一般不需要调下载路线</p>
-<p><img src="./java.assets/image-20220115105907505.png" alt="image-20220115105907505" /></p>
-<p>然后等待下载完成</p>
-<p><img src="./java.assets/image-20220115113744874.png" alt="image-20220115113744874" /></p>
-<p>下载完成后，程序会使用内置zip扩展对更新包解压，等待即可</p>
-<p><img src="./java.assets/image-20220115113937635.png" alt="image-20220115113937635" /></p>
-<h3 id="启动游戏客户端"> 启动游戏客户端</h3>
-<p>更新完成后，会显示以下界面，</p>
-<p>选择客户端，然后点击启动即可</p>
-<p><img src="./java.assets/image-20220115114145583.png" alt="image-20220115114145583" /></p>
-<p>然后在启动器中输入你的登录验证系统的账户密码进行登录</p>
-<p><img src="./java.assets/image-20220115114248705.png" alt="image-20220115114248705" /></p>
-<p>启动游戏即可</p>
-<p><img src="./java.assets/image-20220115114324693.png" alt="image-20220115114324693" /></p>
-<div><p>修改内存的注意</p>
-<p>如果需要修改内存，请按照以下步骤来</p>
-<p>点版本这里</p>
-<p><img src="./java.assets/image-20220115114451888.png" alt="image-20220115114451888" /></p>
-<p>点击“编辑全局设置”，千万别勾选版本特定设置！</p>
-<p><img src="./java.assets/image-20220115114540044.png" alt="image-20220115114540044" /></p>
-<p>然后就可以修改内存了</p>
-</div>
-<p>进入游戏后，进入多人游戏就可以看见服务器列表了</p>
-<p><img src="./java.assets/image-20220115114909635.png" alt="image-20220115114909635" /></p>
-<div><p>提示</p>
-<p>服务器列表在每次启动时都会更新服务器节点列表</p>
-<p>上面图片就不必在意啦~</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -158,6 +91,73 @@
 <p>使用自建登录api替代Mojang官方登录验证</p>
 <p>使得没有正版的玩家也可以方便的登录服务器游玩</p>
 <p>也支持基岩版对Java版账户进行数据同步</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>使用Java版本进入服务器</title>
+      <link>https://docs.nstarmc.cn/start/java/</link>
+      <guid>https://docs.nstarmc.cn/start/java/</guid>
+      <source url="https://docs.nstarmc.cn/rss.xml">使用Java版本进入服务器</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="使用java版本进入服务器"> 使用Java版本进入服务器</h1>
+<div><p>提示</p>
+<p>本篇写的是使用群服务器专用客户端加入教程！</p>
+<p>这是最简单的方法！</p>
+</div>
+<h2 id="下载群服务器客户端"> 下载群服务器客户端</h2>
+<p>首先进入群文件，找到“群服务器客户端”文件夹</p>
+<p><img src="./java.assets/image-20220115102543829.png" alt="image-20220115102543829" /></p>
+<p>下载带有“setup”字样的安装包</p>
+<p><img src="./java.assets/image-20220115102636820.png" alt="image-20220115102636820" /></p>
+<h2 id="安装群服务客户端"> 安装群服务客户端</h2>
+<p>找到你下载的文件，并双击运行</p>
+<p><img src="./java.assets/image-20220115102803274.png" alt="image-20220115102803274" /></p>
+<p>这里建议选择为所有用户安装</p>
+<p><img src="./java.assets/image-20220115102910826.png" alt="image-20220115102910826" /></p>
+<p>然后一直下一步就好了，你可以修改安装目录，客户端大概占用3g的样子</p>
+<p><img src="./java.assets/image-20220115102953620.png" alt="image-20220115102953620" /></p>
+<p>在建议创建快捷方式，然后安装就好</p>
+<p><img src="./java.assets/image-20220115103716570.png" alt="image-20220115103716570" /></p>
+<h2 id="运行客户端"> 运行客户端</h2>
+<h3 id="打开客户端"> 打开客户端</h3>
+<p>在安装完成后，可以直接运行，也可在桌面上找到群服务器客户端的快捷方式运行</p>
+<p><img src="./java.assets/image-20220115104051954.png" alt="image-20220115104051954" /></p>
+<div><p>提示</p>
+<p>如果运行时弹出错误，请在群文件下载运行库，并安装</p>
+<p>然后再次尝试运行</p>
+<p>如果还是出错，可以在群里求助</p>
+<p><img src="./java.assets/image-20220115105445649.png" alt="image-20220115105445649" /></p>
+</div>
+<h3 id="更新游戏客户端"> 更新游戏客户端</h3>
+<p>第一次启动后会提示需要更新，点击确定后，来到更新页面</p>
+<p>点击更新就好，一般不需要调下载路线</p>
+<p><img src="./java.assets/image-20220115105907505.png" alt="image-20220115105907505" /></p>
+<p>然后等待下载完成</p>
+<p><img src="./java.assets/image-20220115113744874.png" alt="image-20220115113744874" /></p>
+<p>下载完成后，程序会使用内置zip扩展对更新包解压，等待即可</p>
+<p><img src="./java.assets/image-20220115113937635.png" alt="image-20220115113937635" /></p>
+<h3 id="启动游戏客户端"> 启动游戏客户端</h3>
+<p>更新完成后，会显示以下界面，</p>
+<p>选择客户端，然后点击启动即可</p>
+<p><img src="./java.assets/image-20220115114145583.png" alt="image-20220115114145583" /></p>
+<p>然后在启动器中输入你的登录验证系统的账户密码进行登录</p>
+<p><img src="./java.assets/image-20220115114248705.png" alt="image-20220115114248705" /></p>
+<p>启动游戏即可</p>
+<p><img src="./java.assets/image-20220115114324693.png" alt="image-20220115114324693" /></p>
+<div><p>修改内存的注意</p>
+<p>如果需要修改内存，请按照以下步骤来</p>
+<p>点版本这里</p>
+<p><img src="./java.assets/image-20220115114451888.png" alt="image-20220115114451888" /></p>
+<p>点击“编辑全局设置”，千万别勾选版本特定设置！</p>
+<p><img src="./java.assets/image-20220115114540044.png" alt="image-20220115114540044" /></p>
+<p>然后就可以修改内存了</p>
+</div>
+<p>进入游戏后，进入多人游戏就可以看见服务器列表了</p>
+<p><img src="./java.assets/image-20220115114909635.png" alt="image-20220115114909635" /></p>
+<div><p>提示</p>
+<p>服务器列表在每次启动时都会更新服务器节点列表</p>
+<p>上面图片就不必在意啦~</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>

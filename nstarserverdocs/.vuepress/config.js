@@ -36,7 +36,8 @@ module.exports = config({
     pwa:false,
     logo: "/favicon.png",
     hostname: "https://docs.nstarmc.cn",
-    repo: "https://github.com/nstarmc/serverdocs/nstarserverdocs",
+    repo: "nstarmc/serverdocs",
+    docsDir: 'nstarserverdocs',
     author: "小宇",
 
 
