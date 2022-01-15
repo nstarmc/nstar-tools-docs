@@ -14,6 +14,7 @@ module.exports = config({
   dest: "./docs",
   lang: "zh-CN",
   head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }],
     [
       "script",
       { src: "https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js" },
