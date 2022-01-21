@@ -53,7 +53,7 @@ icon: icon_list_zhiling
 拒绝传送：
 
 ```
-/tp
+/tpdeny
 ```
 
 ## 点歌相关

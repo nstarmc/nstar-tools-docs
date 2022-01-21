@@ -6,11 +6,71 @@
     <link>https://docs.nstarmc.cn/</link>
     <description>夜阑星空群服务器的帮助文档</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Jan 2022 04:42:58 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Jan 2022 04:42:58 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 04:47:10 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Jan 2022 04:47:10 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
+    <item>
+      <title>夜阑星空群群服务器帮助文档</title>
+      <link>https://docs.nstarmc.cn/</link>
+      <guid>https://docs.nstarmc.cn/</guid>
+      <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群群服务器帮助文档</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
+      <content:encoded><![CDATA[<p>服务器暂定于2022年1月20日开放，敬请期待！</p>
+<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
+<p>还是，敬请期待！</p>
+<p>客户端将在短期内发布~</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>服务器指令</title>
+      <link>https://docs.nstarmc.cn/server/command/</link>
+      <guid>https://docs.nstarmc.cn/server/command/</guid>
+      <source url="https://docs.nstarmc.cn/rss.xml">服务器指令</source>
+      <pubDate>Fri, 21 Jan 2022 04:44:02 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="服务器指令"> 服务器指令</h1>
+<h2 id="传送相关"> 传送相关</h2>
+<div><p>冷却时间</p>
+<p>无论使用什么指令传送，都会有5分钟的冷却时间！</p>
+</div>
+<h3 id="地标传送"> 地标传送</h3>
+<p>传送到出生点：</p>
+<div><pre><code>/warp spawn
+</code></pre>
+<div><span>1</span><br></div></div><div><p>TIPS</p>
+<p>出生点可以使用64绿宝石来自己开一个商店！</p>
+</div>
+<h3 id="玩家互传"> 玩家互传</h3>
+<h4 id="发出传送请求"> 发出传送请求</h4>
+<p>请求传送到其他玩家：</p>
+<div><pre><code>/tpa 玩家ID
+</code></pre>
+<div><span>1</span><br></div></div><p>请求把别人传送到自己那里：</p>
+<div><pre><code>/tphere 玩家ID
+</code></pre>
+<div><span>1</span><br></div></div><h4 id="处理传送请求"> 处理传送请求</h4>
+<p>接受传送：</p>
+<div><pre><code>/tpaccept
+</code></pre>
+<div><span>1</span><br></div></div><p>拒绝传送：</p>
+<div><pre><code>/tpdeny
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="点歌相关"> 点歌相关</h2>
+<p>搜索歌曲：</p>
+<div><pre><code>/music search 歌名
+</code></pre>
+<div><span>1</span><br></div></div><p>投票切歌：</p>
+<div><pre><code>/music vote
+</code></pre>
+<div><span>1</span><br></div></div><p>自己不再听歌：</p>
+<div><pre><code>/music nomusic
+</code></pre>
+<div><span>1</span><br></div></div><p>自己不想听这首歌：</p>
+<div><pre><code>/music stop
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+    </item>
     <item>
       <title>使用基岩版加入游戏</title>
       <link>https://docs.nstarmc.cn/start/bedrock/</link>
@@ -54,18 +114,6 @@
 <p>如有该数据，我们会进行删除和封禁</p>
 <p>（在服务器中登录正版账户你的id前会有一个*号的）</p>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>夜阑星空群群服务器帮助文档</title>
-      <link>https://docs.nstarmc.cn/</link>
-      <guid>https://docs.nstarmc.cn/</guid>
-      <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群群服务器帮助文档</source>
-      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
-      <content:encoded><![CDATA[<p>服务器暂定于2022年1月20日开放，敬请期待！</p>
-<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
-<p>还是，敬请期待！</p>
-<p>客户端将在短期内发布~</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -136,60 +184,12 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>服务器指令</title>
-      <link>https://docs.nstarmc.cn/server/command/</link>
-      <guid>https://docs.nstarmc.cn/server/command/</guid>
-      <source url="https://docs.nstarmc.cn/rss.xml">服务器指令</source>
-      <content:encoded><![CDATA[<h1 id="服务器指令"> 服务器指令</h1>
-<h2 id="传送相关"> 传送相关</h2>
-<div><p>冷却时间</p>
-<p>无论使用什么指令传送，都会有5分钟的冷却时间！</p>
-</div>
-<h3 id="地标传送"> 地标传送</h3>
-<p>传送到出生点：</p>
-<div><pre><code>/warp spawn
-</code></pre>
-<div><span>1</span><br></div></div><div><p>TIPS</p>
-<p>出生点可以使用64绿宝石来自己开一个商店！</p>
-</div>
-<h3 id="玩家互传"> 玩家互传</h3>
-<h4 id="发出传送请求"> 发出传送请求</h4>
-<p>请求传送到其他玩家：</p>
-<div><pre><code>/tpa 玩家ID
-</code></pre>
-<div><span>1</span><br></div></div><p>请求把别人传送到自己那里：</p>
-<div><pre><code>/tphere 玩家ID
-</code></pre>
-<div><span>1</span><br></div></div><h4 id="处理传送请求"> 处理传送请求</h4>
-<p>接受传送：</p>
-<div><pre><code>/tpaccept
-</code></pre>
-<div><span>1</span><br></div></div><p>拒绝传送：</p>
-<div><pre><code>/tp
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="点歌相关"> 点歌相关</h2>
-<p>搜索歌曲：</p>
-<div><pre><code>/music search 歌名
-</code></pre>
-<div><span>1</span><br></div></div><p>投票切歌：</p>
-<div><pre><code>/music vote
-</code></pre>
-<div><span>1</span><br></div></div><p>自己不再听歌：</p>
-<div><pre><code>/music nomusic
-</code></pre>
-<div><span>1</span><br></div></div><p>自己不想听这首歌：</p>
-<div><pre><code>/music stop
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-    </item>
-    <item>
       <title>夜阑星空群服务器</title>
       <link>https://docs.nstarmc.cn/start/</link>
       <guid>https://docs.nstarmc.cn/start/</guid>
       <source url="https://docs.nstarmc.cn/rss.xml">夜阑星空群服务器</source>
       <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="夜阑星空群服务器"> 夜阑星空群服务器</h1>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1910911958&auto=0&height=66"></iframe>
 <h2 id="服务器客户端支持"> 服务器客户端支持</h2>
 <ul>
 <li>Minecraft Java版 1.18.1</li>

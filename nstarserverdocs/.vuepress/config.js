@@ -47,7 +47,7 @@ module.exports = config({
       {
         text: "夜阑星空-Minecraft",
         link: "https://nstarmc.cn",
-        icon: "shouye",
+        icon: "home",
       },
     ],
 

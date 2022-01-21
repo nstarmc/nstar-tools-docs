@@ -1,6 +1,6 @@
 ---
 home: true
-icon: shouye
+icon: home
 title: 夜阑星空群群服务器帮助文档
 heroImage: /logo.png
 heroText: 夜阑星空群群服务器
