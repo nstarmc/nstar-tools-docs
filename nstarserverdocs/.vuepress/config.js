@@ -66,6 +66,14 @@ module.exports = config({
             "bedrock"
           ],
         },
+        {
+          title: "服务器相关",
+          icon: "youxitianchong",
+          prefix: "server/",
+          children: [
+            "command", 
+          ],
+        },
       ],
     },
 

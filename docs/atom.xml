@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-01-15T07:54:37.054Z</updated>
+  <updated>2022-01-21T04:42:58.936Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://docs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://docs.nstarmc.cn/"/>
@@ -14,26 +14,6 @@
   <contributor>
     <name>小宇</name>
   </contributor>
-  <entry>
-    <title type="html">夜阑星空群群服务器帮助文档</title>
-    <id>https://docs.nstarmc.cn/</id>
-    <link href="https://docs.nstarmc.cn/"/>
-    <updated>2022-01-15T05:03:22.000Z</updated>
-    <content type="html"><![CDATA[<p>啥也没</p>
-<p>服务器暂定于2022年1月20日开放，敬请期待！</p>
-<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
-<p>还是，敬请期待！</p>
-<p>客户端将在短期内发布~</p>
-]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-01-15T05:03:22.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
   <entry>
     <title type="html">使用基岩版加入游戏</title>
     <id>https://docs.nstarmc.cn/start/bedrock/</id>
@@ -55,10 +35,9 @@
 <p><img src="./bedrock.assets/image-20220115120808694.png" alt="image-20220115120808694" /></p>
 <p>点击添加服务器，输入服务器地址和端口</p>
 <div><p>基岩版服务器地址</p>
-<p>（服务器暂未开放）</p>
 <p>服务器名称：你爱咋写咋写</p>
-<p>地址：</p>
-<p>端口：</p>
+<p>地址：sz.nstarmc.cn</p>
+<p>端口：19003</p>
 </div>
 <p><img src="./bedrock.assets/image-20220115121735706.png" alt="image-20220115121735706" /></p>
 <p>然后加入服务器即可</p>
@@ -77,6 +56,25 @@
 <p>如有该数据，我们会进行删除和封禁</p>
 <p>（在服务器中登录正版账户你的id前会有一个*号的）</p>
 </div>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-01-15T05:03:22.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">夜阑星空群群服务器帮助文档</title>
+    <id>https://docs.nstarmc.cn/</id>
+    <link href="https://docs.nstarmc.cn/"/>
+    <updated>2022-01-15T05:03:22.000Z</updated>
+    <content type="html"><![CDATA[<p>服务器暂定于2022年1月20日开放，敬请期待！</p>
+<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
+<p>还是，敬请期待！</p>
+<p>客户端将在短期内发布~</p>
 ]]></content>
     <author>
       <name>小宇</name>
@@ -133,10 +131,10 @@
 <p>更新完成后，会显示以下界面，</p>
 <p>选择客户端，然后点击启动即可</p>
 <p><img src="./java.assets/image-20220115114145583.png" alt="image-20220115114145583" /></p>
-<p>然后在启动器中输入你的登录验证系统的账户密码进行登录</p>
-<p><img src="./java.assets/image-20220115114248705.png" alt="image-20220115114248705" /></p>
 <p>启动游戏即可</p>
 <p><img src="./java.assets/image-20220115114324693.png" alt="image-20220115114324693" /></p>
+<p>然后选择外置登录进行登录即可</p>
+<p><img src="./java.assets/image-20220121122214544.png" alt="image-20220121122214544" /></p>
 <div><p>修改内存的注意</p>
 <p>如果需要修改内存，请按照以下步骤来</p>
 <p>点版本这里</p>
@@ -162,11 +160,66 @@
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
+    <title type="html">服务器指令</title>
+    <id>https://docs.nstarmc.cn/server/command/</id>
+    <link href="https://docs.nstarmc.cn/server/command/"/>
+    <updated>2022-01-21T04:43:42.020Z</updated>
+    <content type="html"><![CDATA[<h1 id="服务器指令"> 服务器指令</h1>
+<h2 id="传送相关"> 传送相关</h2>
+<div><p>冷却时间</p>
+<p>无论使用什么指令传送，都会有5分钟的冷却时间！</p>
+</div>
+<h3 id="地标传送"> 地标传送</h3>
+<p>传送到出生点：</p>
+<div><pre><code>/warp spawn
+</code></pre>
+<div><span>1</span><br></div></div><div><p>TIPS</p>
+<p>出生点可以使用64绿宝石来自己开一个商店！</p>
+</div>
+<h3 id="玩家互传"> 玩家互传</h3>
+<h4 id="发出传送请求"> 发出传送请求</h4>
+<p>请求传送到其他玩家：</p>
+<div><pre><code>/tpa 玩家ID
+</code></pre>
+<div><span>1</span><br></div></div><p>请求把别人传送到自己那里：</p>
+<div><pre><code>/tphere 玩家ID
+</code></pre>
+<div><span>1</span><br></div></div><h4 id="处理传送请求"> 处理传送请求</h4>
+<p>接受传送：</p>
+<div><pre><code>/tpaccept
+</code></pre>
+<div><span>1</span><br></div></div><p>拒绝传送：</p>
+<div><pre><code>/tp
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="点歌相关"> 点歌相关</h2>
+<p>搜索歌曲：</p>
+<div><pre><code>/music search 歌名
+</code></pre>
+<div><span>1</span><br></div></div><p>投票切歌：</p>
+<div><pre><code>/music vote
+</code></pre>
+<div><span>1</span><br></div></div><p>自己不再听歌：</p>
+<div><pre><code>/music nomusic
+</code></pre>
+<div><span>1</span><br></div></div><p>自己不想听这首歌：</p>
+<div><pre><code>/music stop
+</code></pre>
+<div><span>1</span><br></div></div>]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
     <title type="html">夜阑星空群服务器</title>
     <id>https://docs.nstarmc.cn/start/</id>
     <link href="https://docs.nstarmc.cn/start/"/>
     <updated>2022-01-15T05:03:22.000Z</updated>
     <content type="html"><![CDATA[<h1 id="夜阑星空群服务器"> 夜阑星空群服务器</h1>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1910911958&auto=0&height=66"></iframe>
 <h2 id="服务器客户端支持"> 服务器客户端支持</h2>
 <ul>
 <li>Minecraft Java版 1.18.1</li>
