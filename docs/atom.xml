@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-01-21T04:47:10.510Z</updated>
+  <updated>2022-03-05T13:38:26.997Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://docs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://docs.nstarmc.cn/"/>
@@ -15,14 +15,11 @@
     <name>小宇</name>
   </contributor>
   <entry>
-    <title type="html">夜阑星空群群服务器帮助文档</title>
+    <title type="html">NSTARMC-Tools</title>
     <id>https://docs.nstarmc.cn/</id>
     <link href="https://docs.nstarmc.cn/"/>
-    <updated>2022-01-21T04:44:02.000Z</updated>
-    <content type="html"><![CDATA[<p>服务器暂定于2022年1月20日开放，敬请期待！</p>
-<p>本期服务器核心为1.18.1原版内容，加上些其它插件玩法</p>
-<p>还是，敬请期待！</p>
-<p>客户端将在短期内发布~</p>
+    <updated>2022-01-21T04:48:13.000Z</updated>
+    <content type="html"><![CDATA[<p>还没有写好啦~</p>
 ]]></content>
     <author>
       <name>小宇</name>
@@ -37,7 +34,7 @@
     <title type="html">服务器指令</title>
     <id>https://docs.nstarmc.cn/server/command/</id>
     <link href="https://docs.nstarmc.cn/server/command/"/>
-    <updated>2022-01-21T04:44:02.000Z</updated>
+    <updated>2022-01-21T04:48:13.000Z</updated>
     <content type="html"><![CDATA[<h1 id="服务器指令"> 服务器指令</h1>
 <h2 id="传送相关"> 传送相关</h2>
 <div><p>冷却时间</p>
@@ -141,6 +138,41 @@
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
+    <title type="html">在验证系统注册</title>
+    <id>https://docs.nstarmc.cn/start/reg/</id>
+    <link href="https://docs.nstarmc.cn/start/reg/"/>
+    <updated>2022-01-15T05:03:22.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="在验证系统注册"> 在验证系统注册</h1>
+<p>1.首先打开浏览器.输入</p>
+<p><a href="https://auth.nstarmc.cn" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn</a></p>
+<p><img src="./reg.assets/image-20210206153455446.d801bf7f.png" alt="image-20210206153455446" /></p>
+<p>或者可以输入<a href="https://auth.nstarmc.cn/auth/login" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn/auth/login</a>进入注册界面</p>
+<p>2.输入自己的邮箱，密码，游戏名称(全英文，符号只允许下划线)</p>
+<p><img src="./reg.assets/image-20210206153243500.5a43a8b5.png" alt="image-20210206153243500" /></p>
+<div><p>如何获取邀请码？</p>
+<p>在QQ群找管理员/群主并提供以下信息</p>
+<p>以下为模板，复制后填写发给管理员/群主即可</p>
+<div><pre><code>申请服务器邀请码
+邮箱：
+将要注册的游戏ID：
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>（来自小宇的留言：没事别找我）</p>
+</div>
+<p>3.注册完后，你会收到激活邮件，打开你注册用的邮箱，点击链接激活即可！</p>
+<div><p>注意！</p>
+<p>如果不从邮件激活账户，你将无法登录游戏！</p>
+</div>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-01-15T05:03:22.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
     <title type="html">使用Java版本进入服务器</title>
     <id>https://docs.nstarmc.cn/start/java/</id>
     <link href="https://docs.nstarmc.cn/start/java/"/>
@@ -218,7 +250,7 @@
     <title type="html">夜阑星空群服务器</title>
     <id>https://docs.nstarmc.cn/start/</id>
     <link href="https://docs.nstarmc.cn/start/"/>
-    <updated>2022-01-21T04:44:02.000Z</updated>
+    <updated>2022-01-21T04:48:13.000Z</updated>
     <content type="html"><![CDATA[<h1 id="夜阑星空群服务器"> 夜阑星空群服务器</h1>
 <h2 id="服务器客户端支持"> 服务器客户端支持</h2>
 <ul>
@@ -234,41 +266,6 @@
 <p>使用自建登录api替代Mojang官方登录验证</p>
 <p>使得没有正版的玩家也可以方便的登录服务器游玩</p>
 <p>也支持基岩版对Java版账户进行数据同步</p>
-]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-01-15T05:03:22.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
-  <entry>
-    <title type="html">在验证系统注册</title>
-    <id>https://docs.nstarmc.cn/start/reg/</id>
-    <link href="https://docs.nstarmc.cn/start/reg/"/>
-    <updated>2022-01-15T05:03:22.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="在验证系统注册"> 在验证系统注册</h1>
-<p>1.首先打开浏览器.输入</p>
-<p><a href="https://auth.nstarmc.cn" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn</a></p>
-<p><img src="./reg.assets/image-20210206153455446.d801bf7f.png" alt="image-20210206153455446" /></p>
-<p>或者可以输入<a href="https://auth.nstarmc.cn/auth/login" target="_blank" rel="noopener noreferrer">https://auth.nstarmc.cn/auth/login</a>进入注册界面</p>
-<p>2.输入自己的邮箱，密码，游戏名称(全英文，符号只允许下划线)</p>
-<p><img src="./reg.assets/image-20210206153243500.5a43a8b5.png" alt="image-20210206153243500" /></p>
-<div><p>如何获取邀请码？</p>
-<p>在QQ群找管理员/群主并提供以下信息</p>
-<p>以下为模板，复制后填写发给管理员/群主即可</p>
-<div><pre><code>申请服务器邀请码
-邮箱：
-将要注册的游戏ID：
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>（来自小宇的留言：没事别找我）</p>
-</div>
-<p>3.注册完后，你会收到激活邮件，打开你注册用的邮箱，点击链接激活即可！</p>
-<div><p>注意！</p>
-<p>如果不从邮件激活账户，你将无法登录游戏！</p>
-</div>
 ]]></content>
     <author>
       <name>小宇</name>
