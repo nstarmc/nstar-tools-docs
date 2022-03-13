@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-03-13T04:30:48.565Z</updated>
+  <updated>2022-03-13T05:49:05.081Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://packs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://packs.nstarmc.cn/"/>
@@ -14,6 +14,58 @@
   <contributor>
     <name>小宇</name>
   </contributor>
+  <entry>
+    <title type="html">反馈</title>
+    <id>https://packs.nstarmc.cn/feedback/</id>
+    <link href="https://packs.nstarmc.cn/feedback/"/>
+    <updated>2022-03-13T04:31:42.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
+<p>你可以在下方区域进行反馈</p>
+<p>反馈内容包含NSTAR系列整合包，NSTARMC-Tools</p>
+<div><p>反馈NSTARMC-Tools 的BUG</p>
+<p>如果你需要反馈工具BUG，请按照以下格式填写：</p>
+<p>（请确保正确安装运行库后再反馈！）</p>
+<div><pre><code>【NSTARMC-Tools BUG反馈】
+
+NSTARMC-Tools版本号：
+
+操作系统版本：Windows7/10/11
+
+问题描述：
+
+BUG复现方法：
+
+错误提示（如果有）：
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></div>
+<comment/>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T04:22:19.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">NSTARMC-Tools</title>
+    <id>https://packs.nstarmc.cn/</id>
+    <link href="https://packs.nstarmc.cn/"/>
+    <updated>2022-03-13T04:09:13.000Z</updated>
+    <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
+点击“开始阅读”以了解吧！</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-01-15T05:03:22.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
   <entry>
     <title type="html">下载整合包Java环境</title>
     <id>https://packs.nstarmc.cn/download/download_java/</id>
@@ -38,34 +90,6 @@
 <p>出现如图提示即为安装成功</p>
 <p><img src="./download_java.assets/image-20220313114316641.png" alt="image-20220313114316641" /></p>
 <p>就可以去首页运行游戏启动器啦！</p>
-]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-03-13T03:48:50.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
-  <entry>
-    <title type="html">使用NSTARMC-Tools下载整合包</title>
-    <id>https://packs.nstarmc.cn/download/download_pack/</id>
-    <link href="https://packs.nstarmc.cn/download/download_pack/"/>
-    <updated>2022-03-13T03:48:50.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
-<p>首先打开工具，进入“下载整合包”页面</p>
-<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
-<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
-<div><p>注意</p>
-<p>下载的整合包不可以是本地已经存在的整合包</p>
-</div>
-<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
-<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
-<p>出现下图提示即下载完成</p>
-<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
-<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
-<p>如果没用，请查看下载Java的帮助文档页面</p>
 ]]></content>
     <author>
       <name>小宇</name>
@@ -106,45 +130,23 @@
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
-    <title type="html">反馈</title>
-    <id>https://packs.nstarmc.cn/feedback/</id>
-    <link href="https://packs.nstarmc.cn/feedback/"/>
-    <updated>2022-03-13T04:27:13.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
-<div><pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css&quot;&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-var gitalk = new Gitalk({
-clientID: '72b18499edac6dd7c3cb', //Client ID
-clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret
-repo: 'nstar-tools-docs',//仓库名称
-owner: 'nstarmc',//仓库拥有者
-admin: ['nstarmc'],
-id: location.href, // Ensure uniqueness and length less than 50
-distractionFreeMode: false // Facebook-like distraction free mode
-})
-
-gitalk.render('gitalk-container')
-&lt;/script&gt;
-</code></pre>
-</div>]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-03-13T04:22:19.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
-  <entry>
-    <title type="html">NSTARMC-Tools</title>
-    <id>https://packs.nstarmc.cn/</id>
-    <link href="https://packs.nstarmc.cn/"/>
-    <updated>2022-03-13T04:09:13.000Z</updated>
-    <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
-点击“开始阅读”以了解吧！</p>
+    <title type="html">使用NSTARMC-Tools下载整合包</title>
+    <id>https://packs.nstarmc.cn/download/download_pack/</id>
+    <link href="https://packs.nstarmc.cn/download/download_pack/"/>
+    <updated>2022-03-13T03:48:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
+<p>首先打开工具，进入“下载整合包”页面</p>
+<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
+<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
+<div><p>注意</p>
+<p>下载的整合包不可以是本地已经存在的整合包</p>
+</div>
+<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
+<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
+<p>出现下图提示即下载完成</p>
+<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
+<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
+<p>如果没用，请查看下载Java的帮助文档页面</p>
 ]]></content>
     <author>
       <name>小宇</name>
@@ -152,7 +154,7 @@ gitalk.render('gitalk-container')
     <contributor>
       <name>小宇</name>
     </contributor>
-    <published>2022-01-15T05:03:22.000Z</published>
+    <published>2022-03-13T03:48:50.000Z</published>
     <rights>Copyright by 小宇</rights>
   </entry>
 </feed>

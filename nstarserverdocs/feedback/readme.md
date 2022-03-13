@@ -1,18 +1,29 @@
 # 反馈
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-    <div id="gitalk-container"></div>
-    <script>
-    var gitalk = new Gitalk({
-    clientID: '72b18499edac6dd7c3cb', //Client ID
-    clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret
-    repo: 'nstar-tools-docs',//仓库名称
-    owner: 'nstarmc',//仓库拥有者
-    admin: ['nstarmc'],
-    id: location.href, // Ensure uniqueness and length less than 50
-    distractionFreeMode: false // Facebook-like distraction free mode
-    })
-    
-    gitalk.render('gitalk-container')
-    </script>
+你可以在下方区域进行反馈
+
+反馈内容包含NSTAR系列整合包，NSTARMC-Tools
+
+::: tip 反馈NSTARMC-Tools 的BUG
+
+如果你需要反馈工具BUG，请按照以下格式填写：
+
+（请确保正确安装运行库后再反馈！）
+
+```
+【NSTARMC-Tools BUG反馈】
+
+NSTARMC-Tools版本号：
+
+操作系统版本：Windows7/10/11
+
+问题描述：
+
+BUG复现方法：
+
+错误提示（如果有）：
+```
+
+:::
+
+<comment/>
