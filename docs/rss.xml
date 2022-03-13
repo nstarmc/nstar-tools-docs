@@ -6,8 +6,8 @@
     <link>https://packs.nstarmc.cn/</link>
     <description>NSTAR-Tools帮助文档</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Mar 2022 04:26:04 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 04:26:04 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 04:30:48 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 04:30:48 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
@@ -88,26 +88,23 @@
       <source url="https://packs.nstarmc.cn/rss.xml">反馈</source>
       <pubDate>Sun, 13 Mar 2022 04:22:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="反馈"> 反馈</h1>
-<div><pre><code>    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css&quot;&gt;
-    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;&lt;/script&gt;
-    &lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
-    &lt;script&gt;
+<div><pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css&quot;&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var gitalk = new Gitalk({
+clientID: '72b18499edac6dd7c3cb', //Client ID
+clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret
+repo: 'nstar-tools-docs',//仓库名称
+owner: 'nstarmc',//仓库拥有者
+admin: ['nstarmc'],
+id: location.href, // Ensure uniqueness and length less than 50
+distractionFreeMode: false // Facebook-like distraction free mode
+})
 
-    var gitalk = new Gitalk({
-    
-    clientID: '72b18499edac6dd7c3cb', //Client ID
-    
-    clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret
-    
-    repo: 'nstar-tools-docs',//仓库名称
-    owner: 'nstarmc',//仓库拥有者
-    admin: ['nstarmc'],
-    id: location.href, // Ensure uniqueness and length less than 50
-    distractionFreeMode: false // Facebook-like distraction free mode
-    })
-    
-    gitalk.render('gitalk-container')
-    &lt;/script&gt;</code></pre>
+gitalk.render('gitalk-container')
+&lt;/script&gt;
+</code></pre>
 </div>]]></content:encoded>
     </item>
     <item>
