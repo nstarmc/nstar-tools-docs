@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-03-13T04:08:20.859Z</updated>
+  <updated>2022-03-13T04:21:18.372Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://packs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://packs.nstarmc.cn/"/>
@@ -106,10 +106,25 @@
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
+    <title type="html">反馈</title>
+    <id>https://packs.nstarmc.cn/feedback/</id>
+    <link href="https://packs.nstarmc.cn/feedback/"/>
+    <updated>2022-03-13T04:22:08.061Z</updated>
+    <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
+<iframe src="https://packs.nstarmc.cn/feedback_page.html"></iframe>]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
     <title type="html">NSTARMC-Tools</title>
     <id>https://packs.nstarmc.cn/</id>
     <link href="https://packs.nstarmc.cn/"/>
-    <updated>2022-03-13T04:06:14.000Z</updated>
+    <updated>2022-03-13T04:09:13.000Z</updated>
     <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
 点击“开始阅读”以了解吧！</p>
 ]]></content>

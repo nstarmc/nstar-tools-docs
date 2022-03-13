@@ -6,8 +6,8 @@
     <link>https://packs.nstarmc.cn/</link>
     <description>NSTAR-Tools帮助文档</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Mar 2022 04:08:20 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 04:08:20 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 04:21:18 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 04:21:18 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
@@ -80,6 +80,14 @@
 <p>请前往Github Releases下载</p>
 <p>仓库：<a href="https://github.com/nstarmc/NSTARMC-Tools/releases" target="_blank" rel="noopener noreferrer">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>反馈</title>
+      <link>https://packs.nstarmc.cn/feedback/</link>
+      <guid>https://packs.nstarmc.cn/feedback/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">反馈</source>
+      <content:encoded><![CDATA[<h1 id="反馈"> 反馈</h1>
+<iframe src="https://packs.nstarmc.cn/feedback_page.html"></iframe>]]></content:encoded>
     </item>
     <item>
       <title>NSTARMC-Tools</title>

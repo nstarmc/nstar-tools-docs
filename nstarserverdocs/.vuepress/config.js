@@ -63,7 +63,16 @@ module.exports = config({
             "download_pack",
             "download_java"
           ],
+        },
+        {
+          title: "反馈",
+          icon: "home",
+          prefix: "feedback/",
+          children: [
+            ""
+          ],
         }
+        
       ],
     },
 
