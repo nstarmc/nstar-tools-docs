@@ -6,8 +6,8 @@
     <link>https://packs.nstarmc.cn/</link>
     <description>NSTAR-Tools帮助文档</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Mar 2022 05:49:05 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 05:49:05 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 05:57:20 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 05:57:20 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 小宇</copyright>
@@ -40,16 +40,6 @@ BUG复现方法：
 ]]></content:encoded>
     </item>
     <item>
-      <title>NSTARMC-Tools</title>
-      <link>https://packs.nstarmc.cn/</link>
-      <guid>https://packs.nstarmc.cn/</guid>
-      <source url="https://packs.nstarmc.cn/rss.xml">NSTARMC-Tools</source>
-      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
-点击“开始阅读”以了解吧！</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>下载整合包Java环境</title>
       <link>https://packs.nstarmc.cn/download/download_java/</link>
       <guid>https://packs.nstarmc.cn/download/download_java/</guid>
@@ -77,6 +67,37 @@ BUG复现方法：
 ]]></content:encoded>
     </item>
     <item>
+      <title>使用NSTARMC-Tools下载整合包</title>
+      <link>https://packs.nstarmc.cn/download/download_pack/</link>
+      <guid>https://packs.nstarmc.cn/download/download_pack/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">使用NSTARMC-Tools下载整合包</source>
+      <pubDate>Sun, 13 Mar 2022 03:48:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
+<p>首先打开工具，进入“下载整合包”页面</p>
+<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
+<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
+<div><p>注意</p>
+<p>下载的整合包不可以是本地已经存在的整合包</p>
+</div>
+<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
+<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
+<p>出现下图提示即下载完成</p>
+<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
+<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
+<p>如果没用，请查看下载Java的帮助文档页面</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>NSTARMC-Tools</title>
+      <link>https://packs.nstarmc.cn/</link>
+      <guid>https://packs.nstarmc.cn/</guid>
+      <source url="https://packs.nstarmc.cn/rss.xml">NSTARMC-Tools</source>
+      <pubDate>Sat, 15 Jan 2022 05:03:22 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
+点击“开始阅读”以了解吧！</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>下载NSTARMC-Tools</title>
       <link>https://packs.nstarmc.cn/download/</link>
       <guid>https://packs.nstarmc.cn/download/</guid>
@@ -96,27 +117,6 @@ BUG复现方法：
 <p><strong>下载历史版本：</strong></p>
 <p>请前往Github Releases下载</p>
 <p>仓库：<a href="https://github.com/nstarmc/NSTARMC-Tools/releases" target="_blank" rel="noopener noreferrer">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>使用NSTARMC-Tools下载整合包</title>
-      <link>https://packs.nstarmc.cn/download/download_pack/</link>
-      <guid>https://packs.nstarmc.cn/download/download_pack/</guid>
-      <source url="https://packs.nstarmc.cn/rss.xml">使用NSTARMC-Tools下载整合包</source>
-      <pubDate>Sun, 13 Mar 2022 03:48:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
-<p>首先打开工具，进入“下载整合包”页面</p>
-<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
-<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
-<div><p>注意</p>
-<p>下载的整合包不可以是本地已经存在的整合包</p>
-</div>
-<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
-<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
-<p>出现下图提示即下载完成</p>
-<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
-<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
-<p>如果没用，请查看下载Java的帮助文档页面</p>
 ]]></content:encoded>
     </item>
   </channel>

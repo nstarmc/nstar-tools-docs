@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-03-13T05:49:05.081Z</updated>
+  <updated>2022-03-13T05:57:20.799Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://packs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://packs.nstarmc.cn/"/>
@@ -18,7 +18,7 @@
     <title type="html">反馈</title>
     <id>https://packs.nstarmc.cn/feedback/</id>
     <link href="https://packs.nstarmc.cn/feedback/"/>
-    <updated>2022-03-13T04:31:42.000Z</updated>
+    <updated>2022-03-13T05:50:26.000Z</updated>
     <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
 <p>你可以在下方区域进行反馈</p>
 <p>反馈内容包含NSTAR系列整合包，NSTARMC-Tools</p>
@@ -47,23 +47,6 @@ BUG复现方法：
       <name>小宇</name>
     </contributor>
     <published>2022-03-13T04:22:19.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
-  <entry>
-    <title type="html">NSTARMC-Tools</title>
-    <id>https://packs.nstarmc.cn/</id>
-    <link href="https://packs.nstarmc.cn/"/>
-    <updated>2022-03-13T04:09:13.000Z</updated>
-    <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
-点击“开始阅读”以了解吧！</p>
-]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-01-15T05:03:22.000Z</published>
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
@@ -101,6 +84,51 @@ BUG复现方法：
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
+    <title type="html">使用NSTARMC-Tools下载整合包</title>
+    <id>https://packs.nstarmc.cn/download/download_pack/</id>
+    <link href="https://packs.nstarmc.cn/download/download_pack/"/>
+    <updated>2022-03-13T03:48:50.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
+<p>首先打开工具，进入“下载整合包”页面</p>
+<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
+<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
+<div><p>注意</p>
+<p>下载的整合包不可以是本地已经存在的整合包</p>
+</div>
+<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
+<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
+<p>出现下图提示即下载完成</p>
+<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
+<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
+<p>如果没用，请查看下载Java的帮助文档页面</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-03-13T03:48:50.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
+    <title type="html">NSTARMC-Tools</title>
+    <id>https://packs.nstarmc.cn/</id>
+    <link href="https://packs.nstarmc.cn/"/>
+    <updated>2022-03-13T04:09:13.000Z</updated>
+    <content type="html"><![CDATA[<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>
+点击“开始阅读”以了解吧！</p>
+]]></content>
+    <author>
+      <name>小宇</name>
+    </author>
+    <contributor>
+      <name>小宇</name>
+    </contributor>
+    <published>2022-01-15T05:03:22.000Z</published>
+    <rights>Copyright by 小宇</rights>
+  </entry>
+  <entry>
     <title type="html">下载NSTARMC-Tools</title>
     <id>https://packs.nstarmc.cn/download/</id>
     <link href="https://packs.nstarmc.cn/download/"/>
@@ -119,34 +147,6 @@ BUG复现方法：
 <p><strong>下载历史版本：</strong></p>
 <p>请前往Github Releases下载</p>
 <p>仓库：<a href="https://github.com/nstarmc/NSTARMC-Tools/releases" target="_blank" rel="noopener noreferrer">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>
-]]></content>
-    <author>
-      <name>小宇</name>
-    </author>
-    <contributor>
-      <name>小宇</name>
-    </contributor>
-    <published>2022-03-13T03:48:50.000Z</published>
-    <rights>Copyright by 小宇</rights>
-  </entry>
-  <entry>
-    <title type="html">使用NSTARMC-Tools下载整合包</title>
-    <id>https://packs.nstarmc.cn/download/download_pack/</id>
-    <link href="https://packs.nstarmc.cn/download/download_pack/"/>
-    <updated>2022-03-13T03:48:50.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="使用nstarmc-tools下载整合包"> 使用NSTARMC-Tools下载整合包</h1>
-<p>首先打开工具，进入“下载整合包”页面</p>
-<p><img src="./download_pack.assets/image-20220313113415850.png" alt="image-20220313113415850" /></p>
-<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>
-<div><p>注意</p>
-<p>下载的整合包不可以是本地已经存在的整合包</p>
-</div>
-<p><img src="./download_pack.assets/image-20220313113551697.png" alt="image-20220313113551697" /></p>
-<p><img src="./download_pack.assets/image-20220313113643482.png" alt="image-20220313113643482" /></p>
-<p>出现下图提示即下载完成</p>
-<p><img src="./download_pack.assets/image-20220313113811206.png" alt="image-20220313113811206" /></p>
-<p>如果你有对应Java运行环境，回到首页直接运行即可</p>
-<p>如果没用，请查看下载Java的帮助文档页面</p>
 ]]></content>
     <author>
       <name>小宇</name>
