@@ -9,7 +9,7 @@ tagline: 也是NSTAR基础模组整合包的帮助文档啦~
 
 action:
   - text: 开始阅读📚
-    link: /
+    link: /download
     type: primary
 
 

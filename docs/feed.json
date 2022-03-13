@@ -13,7 +13,8 @@
       "url": "https://packs.nstarmc.cn/download/download_java/",
       "id": "https://packs.nstarmc.cn/download/download_java/",
       "content_html": "<h1 id=\"下载整合包java环境\"> 下载整合包Java环境</h1>\n<h2 id=\"简述\"> 简述</h2>\n<p>自从本工具发布后，整合包压缩包不再自带Java环境</p>\n<p>你可以按照下文手动下载</p>\n<h2 id=\"下载java运行环境\"> 下载Java运行环境</h2>\n<div><p>提示</p>\n<p>本工具将Java环境直接安装在整合包内</p>\n<p>游戏启动器可以自动识别</p>\n<p>并非全局安装！</p>\n</div>\n<p>进入“Java下载”页面，选择你想安装Java环境的整合包</p>\n<p>此时，工具将自动检测需要的Java版本</p>\n<p><img src=\"./download_java.assets/image-20220313114213809.png\" alt=\"image-20220313114213809\" /></p>\n<p>点击开始下载即可自动安装</p>\n<p><img src=\"./download_java.assets/image-20220313114238371.png\" alt=\"image-20220313114238371\" /></p>\n<p><img src=\"./download_java.assets/image-20220313114255296.png\" alt=\"image-20220313114255296\" /></p>\n<p>出现如图提示即为安装成功</p>\n<p><img src=\"./download_java.assets/image-20220313114316641.png\" alt=\"image-20220313114316641\" /></p>\n<p>就可以去首页运行游戏启动器啦！</p>\n",
-      "date_modified": "2022-03-13T03:48:15.677Z",
+      "date_published": "2022-03-13T03:48:50.000Z",
+      "date_modified": "2022-03-13T03:48:50.000Z",
       "authors": [
         {
           "name": "小宇"
@@ -26,7 +27,8 @@
       "url": "https://packs.nstarmc.cn/download/download_pack/",
       "id": "https://packs.nstarmc.cn/download/download_pack/",
       "content_html": "<h1 id=\"使用nstarmc-tools下载整合包\"> 使用NSTARMC-Tools下载整合包</h1>\n<p>首先打开工具，进入“下载整合包”页面</p>\n<p><img src=\"./download_pack.assets/image-20220313113415850.png\" alt=\"image-20220313113415850\" /></p>\n<p>然后选择你想要下载的整合包类别，版本，点击开始下载即可</p>\n<div><p>注意</p>\n<p>下载的整合包不可以是本地已经存在的整合包</p>\n</div>\n<p><img src=\"./download_pack.assets/image-20220313113551697.png\" alt=\"image-20220313113551697\" /></p>\n<p><img src=\"./download_pack.assets/image-20220313113643482.png\" alt=\"image-20220313113643482\" /></p>\n<p>出现下图提示即下载完成</p>\n<p><img src=\"./download_pack.assets/image-20220313113811206.png\" alt=\"image-20220313113811206\" /></p>\n<p>如果你有对应Java运行环境，回到首页直接运行即可</p>\n<p>如果没用，请查看下载Java的帮助文档页面</p>\n",
-      "date_modified": "2022-03-13T03:48:15.681Z",
+      "date_published": "2022-03-13T03:48:50.000Z",
+      "date_modified": "2022-03-13T03:48:50.000Z",
       "authors": [
         {
           "name": "小宇"
@@ -39,7 +41,8 @@
       "url": "https://packs.nstarmc.cn/download/",
       "id": "https://packs.nstarmc.cn/download/",
       "content_html": "<h1 id=\"下载nstarmc-tools\"> 下载NSTARMC-Tools</h1>\n<h2 id=\"关于nstarmc-tools\"> 关于NSTARMC-Tools</h2>\n<p>NSTARMC-Tools是一款专门为NSTAR系列整合包所定制的一款工具，具有接收整合包信息，下载整合包，下载安装Java运行环境，更新整合包等功能</p>\n<p><img src=\"./readme.assets/image-20220313113220763.png\" alt=\"image-20220313113220763\" /></p>\n<h2 id=\"下载nstarmc-tools-2\"> 下载NSTARMC-Tools</h2>\n<p><strong>下载最新版本：<a href=\"https://res.nstarmc.cn/latest/NSTARMC-Tools.exe\" target=\"_blank\" rel=\"noopener noreferrer\">下载</a></strong></p>\n<div><p>运行环境</p>\n<p>本工具运行需要以下两个运行环境</p>\n<p>软件本体运行环境 — .NET Framework 4.8[Windows10+ 自带]  <a href=\"https://go.microsoft.com/fwlink/?linkid=2088631\" target=\"_blank\" rel=\"noopener noreferrer\">点击下载</a></p>\n<p>软件浏览器扩展运行环境 — Webview2[Windows11+ 自带] 点击下载 <a href=\"https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/61941fe4-55e6-4948-ac81-919de7e15d5b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">点击下载</a></p>\n</div>\n<p><strong>下载历史版本：</strong></p>\n<p>请前往Github Releases下载</p>\n<p>仓库：<a href=\"https://github.com/nstarmc/NSTARMC-Tools/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Releases · nstarmc/NSTARMC-Tools (github.com)</a></p>\n",
-      "date_modified": "2022-03-13T03:48:15.684Z",
+      "date_published": "2022-03-13T03:48:50.000Z",
+      "date_modified": "2022-03-13T03:48:50.000Z",
       "authors": [
         {
           "name": "小宇"
@@ -53,7 +56,7 @@
       "id": "https://packs.nstarmc.cn/",
       "content_html": "<p>本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~<br>\n点击“开始阅读”以了解吧！</p>\n",
       "date_published": "2022-01-15T05:03:22.000Z",
-      "date_modified": "2022-03-05T13:43:17.000Z",
+      "date_modified": "2022-03-13T03:48:50.000Z",
       "authors": [
         {
           "name": "小宇"
