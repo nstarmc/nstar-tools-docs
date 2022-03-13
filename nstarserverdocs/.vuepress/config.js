@@ -4,12 +4,12 @@ module.exports = config({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '夜阑星空群服务器帮助文档',
-      description: '夜阑星空群服务器帮助文档'
+      title: 'NSTAR-Tools帮助文档',
+      description: 'NSTAR-Tools帮助文档'
     }
   },
-  title: "夜阑星空群服务器帮助文档",
-  description: "夜阑星空群服务器的帮助文档",
+  title: "NSTAR-Tools帮助文档",
+  description: "NSTAR-Tools帮助文档",
 
   dest: "./docs",
   lang: "zh-CN",
@@ -36,8 +36,8 @@ module.exports = config({
   themeConfig: {
     pwa:false,
     logo: "/favicon.png",
-    hostname: "https://docs.nstarmc.cn",
-    repo: "nstarmc/serverdocs",
+    hostname: "https://packs.nstarmc.cn",
+    repo: "nstarmc/nstar-tools-docs",
     docsDir: 'nstarserverdocs',
     author: "小宇",
 
@@ -45,8 +45,8 @@ module.exports = config({
     nav: [
       { text: "文档首页", link: "/", icon: "shouye" },
       {
-        text: "夜阑星空-Minecraft",
-        link: "https://nstarmc.cn",
+        text: "整合包原帖",
+        link: "https://www.mcbbs.net/thread-1025346-1-1.html",
         icon: "home",
       },
     ],
@@ -55,32 +55,22 @@ module.exports = config({
       "/": [
         "",
         {
-          title: "快速开始",
+          title: "下载",
           icon: "123_huaban1fuben2",
-          prefix: "start/",
+          prefix: "download/",
           children: [
-
             "", 
-            "reg",
-            "java",
-            "bedrock"
+            "download_pack",
+            "download_java"
           ],
-        },
-        {
-          title: "服务器相关",
-          icon: "youxitianchong",
-          prefix: "server/",
-          children: [
-            "command", 
-          ],
-        },
+        }
       ],
     },
 
 
     footer: {
       display: true,
-      content: "夜阑星空群服务器文档",
+      content: "NSTARMC-Tools文档",
     },
 
 

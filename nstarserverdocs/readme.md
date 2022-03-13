@@ -16,4 +16,5 @@ action:
 footer: NSTARMC-Tools
 ---
 
-还没有写好啦~
+本文档为NSTARMC-Tools以及NSTAR基础模组整合包帮助文档~  
+点击“开始阅读”以了解吧！
