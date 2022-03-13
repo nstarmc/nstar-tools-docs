@@ -54,8 +54,9 @@
       "title": "反馈",
       "url": "https://packs.nstarmc.cn/feedback/",
       "id": "https://packs.nstarmc.cn/feedback/",
-      "content_html": "<h1 id=\"反馈\"> 反馈</h1>\n<iframe src=\"https://packs.nstarmc.cn/feedback_page.html\"></iframe>",
-      "date_modified": "2022-03-13T04:22:08.061Z",
+      "content_html": "<h1 id=\"反馈\"> 反馈</h1>\n<div><pre><code>    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css&quot;&gt;\n    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;&lt;/script&gt;\n    &lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;\n    &lt;script&gt;\n\n    var gitalk = new Gitalk({\n    \n    clientID: '72b18499edac6dd7c3cb', //Client ID\n    \n    clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret\n    \n    repo: 'nstar-tools-docs',//仓库名称\n    owner: 'nstarmc',//仓库拥有者\n    admin: ['nstarmc'],\n    id: location.href, // Ensure uniqueness and length less than 50\n    distractionFreeMode: false // Facebook-like distraction free mode\n    })\n    \n    gitalk.render('gitalk-container')\n    &lt;/script&gt;</code></pre>\n</div>",
+      "date_published": "2022-03-13T04:22:19.000Z",
+      "date_modified": "2022-03-13T04:22:19.000Z",
       "authors": [
         {
           "name": "小宇"

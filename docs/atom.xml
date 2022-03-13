@@ -6,7 +6,7 @@
   <author>
     <name>小宇</name>
   </author>
-  <updated>2022-03-13T04:21:18.372Z</updated>
+  <updated>2022-03-13T04:26:04.638Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://packs.nstarmc.cn/atom.xml"/>
   <link rel="alternate" href="https://packs.nstarmc.cn/"/>
@@ -109,15 +109,36 @@
     <title type="html">反馈</title>
     <id>https://packs.nstarmc.cn/feedback/</id>
     <link href="https://packs.nstarmc.cn/feedback/"/>
-    <updated>2022-03-13T04:22:08.061Z</updated>
+    <updated>2022-03-13T04:22:19.000Z</updated>
     <content type="html"><![CDATA[<h1 id="反馈"> 反馈</h1>
-<iframe src="https://packs.nstarmc.cn/feedback_page.html"></iframe>]]></content>
+<div><pre><code>    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css&quot;&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;&lt;/script&gt;
+    &lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
+    &lt;script&gt;
+
+    var gitalk = new Gitalk({
+    
+    clientID: '72b18499edac6dd7c3cb', //Client ID
+    
+    clientSecret: '471940708d40069de045f0305aa5a0008ed984d6', //Client Secret
+    
+    repo: 'nstar-tools-docs',//仓库名称
+    owner: 'nstarmc',//仓库拥有者
+    admin: ['nstarmc'],
+    id: location.href, // Ensure uniqueness and length less than 50
+    distractionFreeMode: false // Facebook-like distraction free mode
+    })
+    
+    gitalk.render('gitalk-container')
+    &lt;/script&gt;</code></pre>
+</div>]]></content>
     <author>
       <name>小宇</name>
     </author>
     <contributor>
       <name>小宇</name>
     </contributor>
+    <published>2022-03-13T04:22:19.000Z</published>
     <rights>Copyright by 小宇</rights>
   </entry>
   <entry>
